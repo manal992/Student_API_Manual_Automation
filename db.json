@@ -1,0 +1,25 @@
+{
+  "student": [
+    {
+      "id": "1",
+      "name": "manal",
+      "grade": "v.good"
+    },
+    {
+      "id": "2",
+      "name": "aliaa",
+      "grade": "v.good"
+    },
+    {
+      "id": "3",
+      "name": "ayman",
+      "grade": "good"
+    },
+    {
+      "id": "4",
+      "name": "talat",
+      "grade": "good"
+    }
+  ],
+  "users": []
+}
